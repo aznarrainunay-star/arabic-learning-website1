@@ -1,0 +1,126 @@
+Please make the following revisions and fixes to the existing website without changing the overall design, layout, colors, features, or content that already works properly.
+
+1. Fix the Arabic transliteration in all vocabulary sections.
+
+The Arabic letter ث should be transliterated as “ts”, not “th”.
+
+For example:
+- يوم الثلاثاء should be written as “Yaumul-Tsulatsai”, not “Yaumu l-Thulatsai” or any variation using “th”.
+- يوم الاثنين should be written as “Yaumul-Itsnayni”, not “Yaumu l-Itsnayni”.
+
+Please check all Arabic vocabulary and correct the transliteration consistently throughout the entire website.
+
+Also, do not separate “Yaumu” and “l-” in the transliteration. Combine them into one word as “Yaumul-”.
+
+Apply this formatting consistently to all vocabulary items. For example:
+- Yaumul-Ahad
+- Yaumul-Itsnayni
+- Yaumul-Tsulatsai
+- Yaumul-Arbi'aai
+- Yaumul-Khamis
+- Yaumul-Jumu'ah
+- Yaumus-Sabti
+
+Please make sure all transliterations are consistent, correctly spelled, and use the same formatting throughout the website.
+
+2. Fix image compatibility and responsiveness on mobile phones and tablets.
+
+Currently, the images are visible when opening the website on a laptop, but some images do not appear or show a preview on mobile phones and tablets.
+
+Please fix this issue for:
+- Story Illustration images
+- Dialog Illustration images
+- Developer profile photo
+
+Make sure all of these images load and display properly on desktop, laptop, tablet, and mobile devices.
+
+The images should:
+- be responsive on different screen sizes
+- load correctly on mobile browsers
+- remain visible without disappearing
+- maintain their correct aspect ratio
+- not be cropped unexpectedly
+- not overflow outside their containers
+- have a proper fallback or loading behavior if necessary
+
+Please ensure that image rendering is compatible across desktop, tablet, and mobile devices, not only laptops.
+
+3. Improve the Kitabah writing guide layout.
+
+The writing guide/example inside the Kitabah section is currently too small.
+
+Please slightly increase the size of the Arabic writing guide so it is easier for students to see and follow.
+
+However, keep the size proportional and responsive on all screen sizes.
+
+Also, there is currently a layout issue where the example text appears too close to or overlaps with the text “Telusuri kata ini”.
+
+Please adjust the spacing, font size, and layout so that:
+- “Telusuri kata ini” remains clearly visible
+- the Arabic example does not overlap with any other text
+- all elements have enough spacing
+- the writing area looks neat and balanced
+- the layout remains responsive on mobile, tablet, and desktop
+
+4. Improve the workflow and implement automatic scrolling throughout the entire website.
+
+The website still requires users to manually scroll after completing certain activities.
+
+For example, after students finish submitting their drawing in the Mini Game section, a message such as “Hebat! Kamu sudah menyelesaikan gambar kegiatanmu” appears, but the user must manually scroll to find the next button or content.
+
+Please implement a consistent automatic scrolling system throughout the entire website.
+
+Whenever a student completes an activity, submits an answer, sends text, records audio, finishes a drawing, completes a game, or clicks a “Lanjut” button, the page should automatically scroll smoothly to the next relevant section, content, button, or activity.
+
+The user should not need to manually search or scroll to find what comes next.
+
+Apply this behavior consistently across ALL learning workflows, including but not limited to:
+- Vocabulary section
+- Istima' section
+- Kalam section
+- Qira'ah section
+- Kitabah section
+- Mini Game section
+- Drawing activity
+- Evaluation
+- Reflection
+- Any other activity that requires students to continue to the next step
+
+For example:
+- After submitting an answer, automatically scroll to the feedback or next button.
+- After clicking “Lanjut”, automatically scroll to the beginning of the next vocabulary or activity.
+- After finishing a drawing, automatically scroll to the completion message and next available action.
+- After completing a section, automatically guide the user toward the next learning activity.
+
+The auto-scroll should feel smooth, natural, and intentional.
+
+Please avoid sudden jumps or overly fast scrolling.
+
+The goal is to create a smooth and user-friendly learning flow where students can continue the learning process without constantly having to manually scroll up or down to find the next step.
+
+Make sure this automatic workflow works properly on desktop, laptop, tablet, and mobile devices.
+
+5. Fix the homepage decorative elements and text layout.
+
+There is currently a shadow or decorative emoji “🎉” still appearing on the homepage.
+
+Please completely remove the “🎉” emoji and its shadow from the homepage.
+
+Also, fix the homepage headline layout.
+
+Currently, the phrase “seru dan menyenangkan” is separated awkwardly, with “menyenangkan” appearing alone on a separate line.
+
+Please adjust the font size, text width, spacing, or line break so that “seru dan menyenangkan” stays together as one phrase and does not separate awkwardly.
+
+The homepage headline should remain visually balanced and responsive across desktop, tablet, and mobile devices.
+
+Please make sure the final text layout looks neat and natural without awkward word separation.
+
+IMPORTANT:
+Do not change or remove any existing features that are already working properly.
+
+Only make the revisions mentioned above.
+
+Preserve the existing visual identity, colors, layout style, learning flow, and overall design of the website.
+
+Make sure all revisions are fully responsive and compatible with desktop, laptop, tablet, and mobile devices.

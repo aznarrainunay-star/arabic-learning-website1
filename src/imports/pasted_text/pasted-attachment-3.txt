@@ -1,0 +1,98 @@
+Please revise and improve the workflow and automatic scrolling behavior of the entire learning website. Do not change the existing design, colors, content, layout, or other features unless necessary for these workflow improvements.
+
+The main goal is to make the navigation feel smooth and intuitive, especially on mobile phones and tablets, so users do not need to manually scroll to find the next relevant content or button.
+
+Please fix the following:
+
+1. Avatar Selection
+After a student selects an avatar, automatically scroll and focus the screen on the “Simpan & Lanjutkan” button so the student can immediately continue without manually scrolling.
+
+2. Mindful Learning
+After the student answers the question by choosing between “Sudah Tahu” and “Belum Tahu”, automatically scroll to and focus on the “Lanjut” button.
+
+3. Vocabulary Section
+When the user clicks “Lihat Contoh Kalimat”, automatically scroll to and focus on the example sentence that appears. The user should not need to manually search for the example sentence after clicking the button.
+
+4. Istima’ — Listening Section
+After the audio finishes playing and the Arabic text becomes available, automatically scroll to the Arabic text section so the learner can immediately read it.
+
+When the user wants to view the translation, automatically scroll to and focus on the translation section as well. The learner should not need to manually scroll up or down to find the translation.
+
+Apply the same smooth automatic scrolling behavior to all interactive buttons related to the story, audio, Arabic text, and translation.
+
+5. Dialog Section
+When the user clicks “Lihat Teks Dialog”, automatically scroll to and focus on the dialog text.
+
+When the user clicks to view the translation, automatically scroll to and focus on the translation section.
+
+Do not require manual scrolling after these interactions.
+
+6. Reflection Section
+Please reorganize and fix the workflow in the Reflection section because the current scrolling behavior is still inconsistent and messy.
+
+Make sure:
+- Every time the Reflection page is opened, it starts from the very top of the page.
+- Each interaction smoothly guides the user to the next relevant content or button.
+- After answering or submitting something, the screen automatically moves to the appropriate next step.
+- The user should not need to manually search for where to continue.
+
+GLOBAL WORKFLOW RULES FOR THE ENTIRE WEBSITE:
+
+Please apply these rules consistently to ALL pages and sections of the website, including Homepage, student information, avatar selection, Mindful Learning, Vocabulary, Istima’, Kalam, Kitabah, Mini Games, Evaluation, Reflection, and the final learning result page.
+
+A. Every Page Change Starts from the Top
+Whenever the user moves to a completely new page or section, automatically reset the scroll position to the very top of that page.
+
+For example:
+Homepage → Student Information
+Student Information → Mindful Learning
+Mindful Learning → Vocabulary
+Vocabulary → Istima’
+Istima’ → Kalam
+Kalam → Kitabah
+Kitabah → Mini Game
+Mini Game → Evaluation
+Evaluation → Reflection
+Reflection → Learning Result
+
+Every newly opened page must start at the top automatically. The user should never arrive in the middle or bottom of a new page.
+
+B. Smart Auto-Scroll for Interactions
+When an interaction reveals new content, activates a new button, or requires the user to continue somewhere else on the same page, automatically scroll to the relevant element.
+
+Examples:
+- After selecting an avatar → scroll to “Simpan & Lanjutkan”.
+- After answering a question → scroll to “Lanjut”.
+- After clicking “Lihat Contoh Kalimat” → scroll to the example sentence.
+- After audio finishes → scroll to the Arabic text.
+- After clicking translation → scroll to the translation.
+- After clicking “Tekan untuk Rekam” → center the recording interaction area on the screen.
+- After submitting a recording or written answer → automatically scroll to the “Lanjut” button.
+- After completing a drawing → scroll to the completion message and next action.
+- After completing any activity → guide the user to the next relevant button or section.
+
+C. Center Important Interactive Areas
+For interactive activities such as recording, writing, drawing, answering questions, or other exercises, automatically position the active interaction container comfortably in the center or main visible area of the screen whenever appropriate.
+
+For example, when the user presses the recording button, the recording container should be clearly visible and centered instead of remaining partially hidden above or below the current viewport.
+
+D. Smooth and Responsive Behavior
+All automatic scrolling must be smooth, natural, and responsive.
+
+It must work properly on:
+- Desktop/laptop
+- Mobile phones
+- Tablets
+
+Please ensure the automatic scrolling is not only working on desktop. Mobile and tablet compatibility is especially important.
+
+E. Do Not Interrupt Normal Reading
+Automatic scrolling should only happen when the user performs an interaction or moves to a new page. Do not continuously force-scroll while the user is manually reading or exploring content.
+
+The goal is to create a guided and smooth learning experience where:
+- New pages always begin from the top.
+- Interactive actions automatically guide students to the next relevant content.
+- Important buttons and newly revealed content are brought into view.
+- Students do not need to repeatedly scroll manually just to continue the learning flow.
+
+Please keep all existing content and functionality unchanged. Only improve and fix the navigation workflow, scroll behavior, and interaction focus across the entire website.

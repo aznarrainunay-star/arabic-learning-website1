@@ -1,0 +1,651 @@
+Please make the following revisions to the EXISTING Arabic learning website.
+
+IMPORTANT:
+This is ONLY a revision of the existing website.
+
+DO NOT redesign the website from scratch.
+DO NOT change the existing visual identity, color palette, typography, illustrations, cards, spacing, animations, layout style, or overall design language.
+
+The existing website is already visually good and attractive.
+
+ONLY make the specific revisions listed below.
+
+Everything that is NOT mentioned in this prompt must remain exactly as it is.
+
+==================================================
+1. HOMEPAGE — REVISE THE BOTTOM ADDITIONAL INFORMATION
+==================================================
+
+Keep the homepage design exactly as it currently looks.
+
+Keep:
+
+- "Belajar Bahasa Arab"
+- "تعلّم العربية"
+- "Platform belajar Bahasa Arab berbasis Deep Learning untuk SMP Kelas 7"
+- "🚀 Mulai Belajar!" button
+- existing background
+- existing decorative elements
+- existing visual style
+
+At the bottom of the homepage there is currently additional information such as:
+
+- Deep Learning
+- 4 Maharah Bahasa
+- Al-Ayyam
+
+REMOVE ONLY:
+
+"Al-Ayyam / الأيام"
+
+because the website is a general Arabic learning platform based on Deep Learning and should not appear to be exclusively about Al-Ayyam, even though the current example lesson uses Al-Ayyam.
+
+KEEP:
+
+- Deep Learning
+- 4 Maharah Bahasa
+
+Do not change anything else on the homepage.
+
+==================================================
+2. HAMBURGER MENU — REMOVE LESSON
+==================================================
+
+Keep the hamburger menu icon (☰) in the top-right corner.
+
+The hamburger menu currently contains:
+
+- Home
+- Lesson
+- About
+- Info
+
+REMOVE ONLY:
+
+"Lesson"
+
+The final hamburger menu should contain only:
+
+🏠 Home
+👤 About
+ℹ️ Info
+
+Do not change the appearance or position of the hamburger menu.
+
+-----------------------------------
+HOME
+-----------------------------------
+
+When clicked:
+
+Return directly to the homepage.
+
+-----------------------------------
+ABOUT
+-----------------------------------
+
+Keep the existing About section and its simple developer profile.
+
+Use:
+
+"Tentang Pembuat"
+
+"Jihan Naziiha adalah seorang mahasiswi Program Studi Pendidikan Bahasa Arab, Fakultas Bahasa dan Seni, Universitas Negeri Jakarta."
+
+Do NOT add:
+
+- NIM
+- detailed academic information
+- unnecessary personal information
+
+-----------------------------------
+INFO
+-----------------------------------
+
+Keep the existing Info section explaining the purpose of the website.
+
+==================================================
+3. STUDENT PROFILE — NAME AND CLASS
+==================================================
+
+Keep the existing student profile page:
+
+"✨ Sebelum mulai belajar, kenalan dulu yuk!"
+
+The student needs to enter/select:
+
+- Nama
+- Kelas
+- Avatar
+
+-----------------------------------
+NAMA
+-----------------------------------
+
+Keep the name field as a NORMAL TEXT INPUT.
+
+Do NOT use a dropdown for the student's name.
+
+Label:
+
+"Nama"
+
+Placeholder:
+
+"Masukkan nama kamu"
+
+The student should be able to freely type their name.
+
+-----------------------------------
+KELAS
+-----------------------------------
+
+Change the class selection into a DROPDOWN / SELECT MENU.
+
+The available classes are:
+
+7A
+7B
+7C
+7D
+7E
+7F
+7G
+7H
+7I
+
+Do NOT use separate buttons for each class.
+
+The dropdown should allow the student to select one class.
+
+Example:
+
+"Kelas"
+"Pilih kelas ▾"
+
+When opened:
+
+7A
+7B
+7C
+7D
+7E
+7F
+7G
+7H
+7I
+
+This is important because there are many class options and using separate buttons would make the interface too crowded.
+
+Keep the existing avatar selection exactly as it is.
+
+==================================================
+4. VOCABULARY AUDIO BUTTON
+==================================================
+
+Revise ONLY the vocabulary audio interaction.
+
+Currently the website uses a text/button such as:
+
+"Dengarkan Audio"
+
+When clicked, another play button appears.
+
+REMOVE that interaction.
+
+Instead, use a DIRECT AUDIO BUTTON:
+
+🔊
+
+The speaker icon itself should be clickable.
+
+When the student taps:
+
+🔊
+
+the audio should immediately play the correct Arabic pronunciation.
+
+The student should NOT need to click:
+
+"Dengarkan Audio"
+↓
+then
+"Play"
+
+It should be:
+
+🔊 → audio plays immediately
+
+Allow the student to tap the speaker again to replay the pronunciation.
+
+Keep the existing vocabulary cards, illustrations, Arabic words, translations, contextual examples, and example sentences unchanged.
+
+Only change the audio interaction.
+
+Also keep audio available for Arabic example sentences where already intended.
+
+==================================================
+5. ISTIMĀ' — REPLACE THE CURRENT CONVERSATION
+==================================================
+
+In the Istimā' / Listening section, replace the CURRENT dialogue/conversation content with the exact learning content based on the provided reference screenshot.
+
+The topic remains:
+
+الأيام
+
+"Hari-hari dalam Seminggu"
+
+The conversation should teach how to talk about days using expressions such as:
+
+- الآن — sekarang
+- بالأمس — kemarin
+- أول أمس — kemarin lusa
+- غدًا — besok
+- بعد غد — besok lusa
+
+Use the following conversation structure:
+
+المحادثة
+
+أيُّ يومٍ الآن؟
+الآن يومُ الاثنين.
+
+أيُّ يومٍ بالأمس؟
+بالأمس يومُ الأحد.
+
+أيُّ يومٍ أولُ أمس؟
+أولُ أمس يومُ السبت.
+
+أيُّ يومٍ غدًا؟
+غدًا يومُ الثلاثاء.
+
+أيُّ يومٍ بعدَ غد؟
+بعدَ غدٍ يومُ الأربعاء.
+
+Use the provided screenshot as the visual/content reference.
+
+The conversation should be presented clearly as a dialogue/question-and-answer format.
+
+-----------------------------------
+VOCABULARY ADDITIONS
+-----------------------------------
+
+Add the following supporting vocabulary to the vocabulary section:
+
+أيّ — Yang mana / Apa
+الآن — Sekarang
+بالأمس — Kemarin
+أول أمس — Kemarin lusa
+غدًا — Besok
+بعد غد — Besok lusa
+
+Keep the existing seven days vocabulary:
+
+الأحد
+الاثنين
+الثلاثاء
+الأربعاء
+الخميس
+الجمعة
+السبت
+
+Do NOT remove the existing days-of-the-week vocabulary.
+
+The new vocabulary should complement the seven day names.
+
+The vocabulary cards should continue using the existing visual design.
+
+==================================================
+6. ISTIMĀ' AUDIO
+==================================================
+
+The Istimā' conversation should include audio.
+
+Students should be able to listen to the complete conversation.
+
+Use a direct speaker/play interaction that is easy to understand.
+
+If possible, allow:
+
+🔊 Play conversation
+
+and replay.
+
+The Arabic pronunciation must correspond to the displayed Arabic text.
+
+Keep the existing short-story and listening comprehension structure if it already exists.
+
+However, the main dialogue content should now use the conversation provided above.
+
+==================================================
+7. KALĀM — LOCK THE LEVELS
+==================================================
+
+IMPORTANT REVISION:
+
+The Kalām / Speaking section currently has multiple levels.
+
+Students must NOT be able to directly access Level 4 or skip earlier levels.
+
+Implement sequential level unlocking.
+
+The structure should be:
+
+Level 1 → unlocked
+Level 2 → locked
+Level 3 → locked
+Level 4 → locked
+
+After successfully completing Level 1:
+
+Level 2 becomes unlocked.
+
+After successfully completing Level 2:
+
+Level 3 becomes unlocked.
+
+After successfully completing Level 3:
+
+Level 4 becomes unlocked.
+
+Students must complete the previous level before accessing the next level.
+
+Locked levels should have a clear visual indication such as:
+
+🔒 Locked
+
+Do not remove the existing levels.
+
+Only change their accessibility logic.
+
+The same existing Kalām visual design should be preserved.
+
+==================================================
+8. MINI GAME — ALL GAMES MUST BE COMPLETED
+==================================================
+
+The Mini Game section currently contains four activities:
+
+1. Cocokkan Kata
+2. Tebak Kata
+3. Susun Kata
+4. Gambar Aktivitas
+
+KEEP all four games.
+
+However, change the completion requirement.
+
+CURRENT BEHAVIOR:
+The student can complete only one game and immediately continue to Evaluation.
+
+CHANGE IT TO:
+
+The student MUST complete ALL FOUR Mini Games before accessing Evaluation.
+
+Required:
+
+☑ Cocokkan Kata
+☑ Tebak Kata
+☑ Susun Kata
+☑ Gambar Aktivitas
+
+Only when all four are completed should the button:
+
+"➡️ Lanjut ke Evaluasi"
+
+become active.
+
+Before all games are completed, the button should remain disabled/locked.
+
+For example:
+
+"🔒 Selesaikan semua permainan terlebih dahulu"
+
+Once all four are completed:
+
+"🎉 Semua permainan selesai!"
+"➡️ Lanjut ke Evaluasi"
+
+Keep all existing game designs and mechanics unchanged.
+
+==================================================
+9. EVALUATION — MUST BE COMPLETED BEFORE REFLECTION
+==================================================
+
+The Evaluation section must also use sequential access control.
+
+Students must complete ALL evaluation questions before they can access Reflection.
+
+IMPORTANT:
+
+Even if a student somehow attempts to access the final stage directly, they MUST NOT be allowed to enter Reflection unless the entire Evaluation has been completed.
+
+The system should check evaluation completion status.
+
+Required flow:
+
+Evaluation Question 1
+↓
+Evaluation Question 2
+↓
+Evaluation Question 3
+↓
+...
+↓
+Final Evaluation Question
+↓
+Evaluation Complete
+↓
+Reflection unlocked
+
+If the Evaluation is incomplete:
+
+Reflection remains LOCKED.
+
+Show a clear message such as:
+
+"🔒 Selesaikan semua soal evaluasi terlebih dahulu."
+
+Do not allow students to bypass the evaluation.
+
+The student should only be able to continue to Reflection after completing all evaluation items.
+
+==================================================
+10. GLOBAL PROGRESS / STAGE ACCESS CONTROL
+==================================================
+
+The learning sequence must remain sequential.
+
+The intended flow is:
+
+Homepage
+↓
+Student Profile
+↓
+Mindful Learning / Pertanyaan Pemantik
+↓
+Materi
+↓
+Istimā'
+↓
+Kalām
+↓
+Kitābah
+↓
+Mini Game
+↓
+Evaluasi
+↓
+Refleksi
+↓
+Hasil Belajar
+↓
+Homepage
+
+Students should not be able to skip required learning stages.
+
+In particular:
+
+- Kalām levels must be sequential.
+- All Mini Games must be completed.
+- All Evaluation questions must be completed.
+- Reflection must remain locked until Evaluation is complete.
+
+Do NOT show the numbered progress bar at the top.
+
+The learning-stage progress indicator should remain hidden as previously requested.
+
+==================================================
+11. TOP-LEFT BACK ARROW — RESET WARNING
+==================================================
+
+At the top of the learning pages there is currently a back arrow.
+
+Keep the existing back arrow.
+
+However, change its behavior.
+
+When the student clicks the back arrow, DO NOT immediately return to the homepage.
+
+First show a confirmation dialog/modal.
+
+Example:
+
+"⚠️ Kembali ke Beranda?"
+
+"Jika kamu kembali ke beranda sekarang, progress pembelajaranmu akan diulang dari awal."
+
+Buttons:
+
+"Batalkan"
+"Kembali ke Beranda"
+
+The student must explicitly confirm before leaving.
+
+If the student selects:
+
+"Batalkan"
+
+→ close the dialog and remain on the current page.
+
+If the student selects:
+
+"Kembali ke Beranda"
+
+→ return to the homepage
+→ reset the current learning progress/session.
+
+The warning should make it clear that returning to the homepage will cause the learning progress to restart from the beginning.
+
+Use a friendly but clear tone suitable for Grade 7 students.
+
+==================================================
+12. DO NOT CHANGE OTHER EXISTING FEATURES
+==================================================
+
+The website is already visually and structurally very good.
+
+Therefore, DO NOT modify anything else.
+
+Preserve exactly:
+
+- homepage visual design
+- colors
+- typography
+- illustrations
+- decorative elements
+- cards
+- buttons
+- animations
+- avatar style
+- Mindful Learning design
+- contextual examples
+- Arabic example sentences
+- vocabulary layout
+- Istimā' layout
+- Kalām design
+- Kitābah handwriting canvas
+- Mini Game visual design
+- Evaluation design
+- Reflection design
+- Learning Result design
+
+Only apply the revisions explicitly requested in this prompt.
+
+==================================================
+FINAL REQUIRED FLOW
+==================================================
+
+The final website flow should be:
+
+🏠 HOMEPAGE
+│
+├── ☰ MENU
+│   ├── Home
+│   ├── About
+│   └── Info
+│
+└── 🚀 Mulai Belajar
+        ↓
+   👤 Student Profile
+   ├── Nama (scrollable dropdown/select)
+   ├── Kelas (dropdown: 7A–7I)
+   └── Avatar
+        ↓
+   🧠 Mindful Learning
+   (Pertanyaan Pemantik)
+        ↓
+   📖 Materi
+   ├── 7 Hari dalam Seminggu
+   ├── Additional vocabulary:
+   │   الآن
+   │   بالأمس
+   │   أول أمس
+   │   غدًا
+   │   بعد غد
+   ├── 🔊 Direct audio buttons
+   ├── Real-life context
+   └── Arabic example sentences
+        ↓
+   🎧 Istimā'
+   ├── Short Story
+   ├── Conversation
+   ├── Audio
+   └── Comprehension Questions
+        ↓
+   🗣️ Kalām
+   ├── Level 1 ✅
+   ├── Level 2 🔒
+   ├── Level 3 🔒
+   └── Level 4 🔒
+        ↓
+   ✍️ Kitābah
+        ↓
+   🎮 Mini Game
+   ├── Cocokkan Kata
+   ├── Tebak Kata
+   ├── Susun Kata
+   └── Gambar Aktivitas
+        ↓
+   ⚠️ ALL FOUR GAMES MUST BE COMPLETED
+        ↓
+   📝 Evaluasi
+        ↓
+   ⚠️ ALL EVALUATION QUESTIONS MUST BE COMPLETED
+        ↓
+   💭 Refleksi
+        ↓
+   🏆 Hasil Belajar
+        ↓
+   🏠 Kembali ke Beranda
+
+IMPORTANT FINAL REMINDER:
+
+Do not redesign the website.
+
+Do not remove existing features except those explicitly requested.
+
+Do not change the overall visual appearance.
+
+Make this feel like a polished revision of the current website, not a completely new website.

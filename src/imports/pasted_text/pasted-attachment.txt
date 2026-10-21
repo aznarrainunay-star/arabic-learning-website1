@@ -1,0 +1,286 @@
+Create a functional educational web app for junior high school students learning Arabic.
+
+The website is an Arabic language learning media based on the Deep Learning educational approach, specifically:
+
+1. Mindful Learning
+2. Meaningful Learning
+3. Joyful Learning
+
+The target users are Grade 7 junior high school students. The website should be child-friendly, engaging, visually appealing, simple to navigate, and suitable for students who use iPads with a stylus.
+
+The website should NOT feel like a traditional academic website. It should feel like an interactive learning experience.
+
+MAIN LEARNING FLOW:
+
+Home
+→ Select Learning Material
+→ Mindful Learning
+→ Learning Material
+→ Meaningful Learning
+→ Practice
+→ Joyful Learning / Mini Game
+→ Arabic Writing Practice
+→ Evaluation
+→ Reflection
+→ Learning Result
+
+DESIGN DIRECTION:
+
+* Modern educational website
+* Friendly and playful visual style
+* Suitable for Grade 7 students
+* Clean interface with large buttons
+* Rounded cards and friendly illustrations
+* Use Arabic typography that is easy to read
+* Support Arabic right-to-left text where appropriate
+* Use Indonesian for instructions and explanations
+* Make the interface comfortable for iPad screens
+* Touch-friendly buttons and controls
+* Clear progress indicator showing the student's current learning stage
+* Avoid excessive text
+* Use visual elements, icons, illustrations, cards, and interactive components
+* Maintain consistent spacing, typography, buttons, cards, and navigation throughout the website
+
+HOME PAGE:
+
+Create a welcoming homepage containing:
+
+* Website logo/title
+* Short introduction
+* "Mulai Belajar" button
+* Learning material selection
+* Progress indicator
+* Student-friendly illustration
+* Simple navigation
+
+LEARNING MATERIAL:
+
+Create a material selection page.
+
+Each material should appear as a learning card containing:
+
+* Arabic title
+* Indonesian title
+* Short description
+* Difficulty indicator
+* Progress status
+* "Mulai Belajar" button
+
+MINDFUL LEARNING:
+
+Before students see the learning material, create a "Mindful Learning" section.
+
+Show a short introduction explaining that students should think about what they already know before learning something new.
+
+Display a triggering question:
+
+"Apakah kamu pernah belajar tentang materi ini?"
+
+Provide two large choices:
+
+"Ya, pernah"
+"Belum pernah"
+
+IF THE STUDENT SELECTS "YA, PERNAH":
+
+Show:
+
+"Apa yang masih kamu ingat tentang materi ini?"
+
+Provide several selectable options:
+
+* Saya masih ingat beberapa kosakata.
+* Saya masih ingat cara mengucapkannya.
+* Saya masih ingat cara menulisnya.
+* Saya masih ingat sedikit, tetapi belum yakin.
+* Saya lupa sebagian besar.
+
+Then show a short personalized response based on the selected answer and provide a "Lanjut ke Materi" button.
+
+IF THE STUDENT SELECTS "BELUM PERNAH":
+
+Show:
+
+"Tidak apa-apa! Menurutmu, materi ini berkaitan dengan apa?"
+
+Provide several selectable options.
+
+Then show an encouraging message and a "Mari Pelajari" button.
+
+IMPORTANT:
+
+The student's answers should be stored temporarily during the learning session so they can be displayed later in the reflection section.
+
+MEANINGFUL LEARNING:
+
+Create a learning material section that connects Arabic vocabulary and language structures with real-life situations.
+
+Each concept should contain:
+
+* Arabic vocabulary
+* Indonesian meaning
+* Arabic pronunciation/transliteration when useful
+* Visual illustration
+* Real-life context
+* Example sentence
+* Short dialogue when appropriate
+* Interactive example
+
+Use realistic situations relevant to Grade 7 students, such as:
+
+* classroom
+* school schedule
+* meeting friends
+* introducing oneself
+* asking and answering simple questions
+* daily activities
+
+Do not present the material as a long block of text.
+
+Instead, divide the material into small interactive cards.
+
+For each example, explain why and where the expression would be used in real life.
+
+JOYFUL LEARNING:
+
+Create a dedicated "Joyful Learning" section containing a small educational mini-game related to the Arabic material.
+
+The mini-game should be simple enough for Grade 7 students.
+
+Possible game types:
+
+* matching Arabic words with pictures
+* matching Arabic words with Indonesian meanings
+* arranging Arabic words into the correct order
+* multiple-choice challenge
+* vocabulary memory game
+* drag-and-drop activity
+
+The game should have:
+
+* clear instructions
+* interactive feedback
+* score
+* progress
+* encouraging messages
+* retry button
+* completion state
+
+The game should reinforce the learning material rather than being unrelated entertainment.
+
+ARABIC WRITING PRACTICE:
+
+Create an "Arabic Writing Practice" section designed specifically for iPad users with a stylus.
+
+Include a large digital writing canvas where students can write Arabic by hand using a stylus or finger.
+
+Features:
+
+* touch/stylus drawing support
+* smooth drawing strokes
+* Arabic writing practice area
+* optional dotted Arabic letter/word guide
+* erase button
+* undo button
+* clear canvas button
+* save/submit button
+* writing prompt above the canvas
+
+Example:
+
+"اكتب الكلمة التالية:"
+"الاثنين"
+
+Students should be able to write the Arabic word directly on the canvas.
+
+Also provide a free drawing area because students may use drawing as part of their learning activity.
+
+The writing activity should allow the teacher/researcher to review the student's handwriting after submission.
+
+EVALUATION:
+
+Create a short learning evaluation after the activities.
+
+Include questions that assess whether students understand the material.
+
+Use different interaction types:
+
+* multiple choice
+* matching
+* ordering
+* short answer
+* simple Arabic writing
+
+Show immediate feedback after each answer.
+
+REFLECTION:
+
+Create a final reflection section.
+
+Ask students questions such as:
+
+"Apa yang kamu pelajari hari ini?"
+
+"Apa kosakata yang paling kamu ingat?"
+
+"Bagian mana yang paling kamu sukai?"
+
+"Apa yang masih sulit untuk kamu pahami?"
+
+"Bagaimana perasaanmu setelah belajar hari ini?"
+
+Allow students to select answers and optionally write their own reflection.
+
+Also display their initial Mindful Learning response so they can compare what they knew before and what they know after learning.
+
+RESULT PAGE:
+
+Create a final learning result page containing:
+
+* learning progress
+* evaluation score
+* completed activities
+* mini-game score
+* reflection summary
+* encouraging message
+
+Use positive language and avoid making students feel punished by low scores.
+
+INTERACTION REQUIREMENTS:
+
+Make all major buttons functional.
+
+Create working navigation between sections.
+
+Create state-based interactions for the Mindful Learning choices.
+
+Create working quiz feedback.
+
+Create a working mini-game prototype.
+
+Create a functional digital writing canvas using code rather than a static image.
+
+Make the website responsive, but prioritize iPad/tablet interaction.
+
+Use accessible touch targets and avoid tiny buttons.
+
+TECHNICAL DIRECTION:
+
+Build this as a functional prototype/web app in Figma Make.
+
+Use reusable components for:
+
+* buttons
+* learning cards
+* question cards
+* answer options
+* progress indicators
+* vocabulary cards
+* feedback messages
+* game components
+* reflection cards
+* writing canvas
+
+Keep the code and components organized so that the learning material can be replaced or expanded later.
+
+For the first prototype, use sample Arabic learning content about "الأيام" (days of the week) so the complete learning flow can be demonstrated from beginning to end.
